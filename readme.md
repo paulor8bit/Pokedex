@@ -1,12 +1,10 @@
 <h1 align="center"><img alt="Logo" src="https://pokedex--pauloricardo14.repl.co/imgs/capa.jpg">
 </h1><a href="https://www.linkedin.com/in/paulor8bit//"><img alt="Made By" src="https://img.shields.io/static/v1?label=Made%20By&amp;message=paulo%20ricardo&amp;color=orange&amp;style=for-the-badge"> </a><img alt="Languages" src="https://img.shields.io/github/languages/count/paulor8bit/Pokedex?style=for-the-badge"><img alt="Top Language" src="https://img.shields.io/github/languages/top/paulor8bit/Pokedex?style=for-the-badge"><img alt="Repo Size" src="https://img.shields.io/github/repo-size/paulor8bit/Pokedex?style=for-the-badge"><img alt="Last Commit" src="https://img.shields.io/github/last-commit/paulor8bit/Pokedex?style=for-the-badge">
-
-<h4 align="center">
-Pokédex simples com acesso a vizualizações de todos os Pokémons
+<h4 align="center">Pokédex simples com acesso a vizualizações de todos os Pokémons
 
 <br>
-
 <img alt="Scene" src="https://pokedex--pauloricardo14.repl.co/imgs/pokedex.png">
+</h4>
 
 ## :rocket: Tecnologias
 
@@ -21,7 +19,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 Você pode checar a Pokédex aqui:
 
-* [Pokédex](https://rafaelmartins92.github.io/game-dev/)
+* [Pokédex](https://pokedex--pauloricardo14.repl.co/)
 
 ## :information\_source: Como usar
 
@@ -37,8 +35,6 @@ $ cd pokedex
 # Go to index.html
 # Run with Live Server
 ```
-
-
 
 - - -
 
